@@ -7,7 +7,7 @@ import { ImageService } from 'src/app/services/image.service';
 import { PropertiesService } from 'src/app/services/properties.service';
 import { ListingModule } from '../listing.module';
 import { DateRange, DefaultMatCalendarRangeStrategy, MAT_DATE_RANGE_SELECTION_STRATEGY, MatCalendar, MatCalendarCellClassFunction } from '@angular/material/datepicker';
-import { promise } from 'protractor';
+// import { promise } from 'protractor';
 import * as mapboxgl from 'mapbox-gl';
 import { environment } from 'src/environments/environment';
 
